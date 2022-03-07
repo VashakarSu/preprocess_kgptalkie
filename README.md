@@ -11,3 +11,4 @@ Install
 Uninstall
 
 `pip uninstall preprocess_kgptalkie`# preprocess_kgptalkie
+# NLP_COURSE
